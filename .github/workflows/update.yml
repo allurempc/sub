@@ -1,0 +1,25 @@
+name: Update Subscription
+
+on:
+  schedule:
+    - cron: "0 * * * *"   # هر 1 ساعت یکبار اجرا میشه
+  workflow_dispatch:      # اجرا دستی هم ممکنه
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Download latest subscription
+        run: |
+          curl -s "https://sajad-cake-6262.mpc-allure.workers.dev/arista?limit=12" -o SE-con
+
+      - name: Commit & Push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add SE-con
+          git commit -m "Auto update subscription [skip ci]" || echo "No changes to commit"
+          git push
