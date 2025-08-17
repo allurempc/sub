@@ -10,3 +10,6 @@ vless://8d921086-629f-4464-babc-636cadfdfc0a@gerkr1dlsujtpy4c4xi8lotul76mgjxn-we
 vless://8d921086-629f-4464-babc-636cadfdfc0a@www.speedtest.net:8443?encryption=none&host=gerkr1dlsujtpy4c4xi8lotul76mgjxn-we.pages.dev&type=ws&security=tls&path=%2FcB2VtcDN4ZBlL8fB%2FMTguMTg0LjU1LjI0OSwyMTIuMzQuMTQyLjEwMCwxODguMTE2LjQwLjM3%3Fed%3D2560&sni=gerKr1DlsujtPY4C4xI8lOTUl76mgJxn-wE.PageS.DEV&fp=randomized&alpn=http%2F1.1#ARISTA💥
 vless://8d921086-629f-4464-babc-636cadfdfc0a@172.66.44.171:8443?encryption=none&host=gerkr1dlsujtpy4c4xi8lotul76mgjxn-we.pages.dev&type=ws&security=tls&path=%2FEhIalQMxsqPtP5wo%2FMTguMTg0LjU1LjI0OSwyMTIuMzQuMTQyLjEwMCwxODguMTE2LjQwLjM3%3Fed%3D2560&sni=GErKr1DlsujtpY4C4Xi8LoTUL76MgJxN-we.pAGes.DEV&fp=randomized&alpn=http%2F1.1#ARISTA💥
 vless://8d921086-629f-4464-babc-636cadfdfc0a@172.66.47.85:8443?encryption=none&host=gerkr1dlsujtpy4c4xi8lotul76mgjxn-we.pages.dev&type=ws&security=tls&path=%2F9utAxbNadloyESg7%2FMTguMTg0LjU1LjI0OSwyMTIuMzQuMTQyLjEwMCwxODguMTE2LjQwLjM3%3Fed%3D2560&sni=gERKr1dLsUJTPy4C4xi8LotuL76MgjxN-WE.pAges.dEV&fp=randomized&alpn=http%2F1.1#ARISTA💥
+# --- Manual Added Configs ---
+vless://71d3da8f-0249-4a10-a056-ecb0e43d9cfb@assets.ahw85.ir:443?encryption=none&security=tls&type=ws&host=assets.ahw85.ir&path=/wp-json/#Secure-VLESS
+
