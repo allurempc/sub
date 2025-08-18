@@ -2,14 +2,14 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 #ARISTA💥
-vless://aa435167-a592-44d1-9ba7-50521a3ddb99@138.124.15.58:2087?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=138.124.15.58&encryption=none#ARISTA💥
-vless://0aee83e9-2fce-4d16-8fad-8beb619db831@31.169.127.40:2087?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=31.169.127.40&encryption=none#ARISTA💥
-vless://c2e5afa0-907f-4b26-a2e2-2c8f17d332de@185.58.115.104:2087?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=185.58.115.104&encryption=none#ARISTA💥
-vless://3883c5ae-0494-546e-aa55-f56b437ac581@95.215.8.25:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=95.215.8.25&encryption=none#ARISTA💥
-vless://cc9bd61b-9c4f-5ace-8a93-f23a868d6ee9@38.76.247.230:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=38.76.247.230&encryption=none#ARISTA💥
-vless://c6b88243-a3fc-57a1-a78f-c989a84476b7@41.216.182.162:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=41.216.182.162&encryption=none#ARISTA💥
-vless://e7e9b808-20ac-4bd7-b71f-76374156fac6@51.195.202.129:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=51.195.202.129&encryption=none#ARISTA💥
-vless://a8b11fe0-51f0-4ae6-a337-78ce42004879@188.166.150.199:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=188.166.150.199&encryption=none#ARISTA💥
+vless://8d921086-629f-4464-babc-636cadfdfc0a@gerkr1dlsujtpy4c4xi8lotul76mgjxn-we.pages.dev:443?encryption=none&host=gerkr1dlsujtpy4c4xi8lotul76mgjxn-we.pages.dev&type=ws&security=tls&path=%2F9Krbv3U25tNGf3Wp%2FMTguMTg0LjU1LjI0OSwyMTIuMzQuMTQyLjEwMCwxODguMTE2LjQwLjM3%3Fed%3D2560&sni=GErKR1DLsujtPY4c4Xi8lOtuL76MGJxN-we.pAGES.dev&fp=randomized&alpn=http%2F1.1#ARISTA💥
+vless://8d921086-629f-4464-babc-636cadfdfc0a@www.speedtest.net:443?encryption=none&host=gerkr1dlsujtpy4c4xi8lotul76mgjxn-we.pages.dev&type=ws&security=tls&path=%2FhDW7lF4FUiS7kLYv%2FMTguMTg0LjU1LjI0OSwyMTIuMzQuMTQyLjEwMCwxODguMTE2LjQwLjM3%3Fed%3D2560&sni=GERKR1DlSUJtPY4c4Xi8lOTUL76mGJXN-wE.Pages.dEV&fp=randomized&alpn=http%2F1.1#ARISTA💥
+vless://8d921086-629f-4464-babc-636cadfdfc0a@172.66.44.171:443?encryption=none&host=gerkr1dlsujtpy4c4xi8lotul76mgjxn-we.pages.dev&type=ws&security=tls&path=%2FwKRNp82AEouXTULl%2FMTguMTg0LjU1LjI0OSwyMTIuMzQuMTQyLjEwMCwxODguMTE2LjQwLjM3%3Fed%3D2560&sni=GeRkR1dlSUjTpy4c4XI8LOtul76MGjxN-wE.pageS.dEv&fp=randomized&alpn=http%2F1.1#ARISTA💥
+vless://8d921086-629f-4464-babc-636cadfdfc0a@172.66.47.85:443?encryption=none&host=gerkr1dlsujtpy4c4xi8lotul76mgjxn-we.pages.dev&type=ws&security=tls&path=%2F7F9f2H3An9ku9ywq%2FMTguMTg0LjU1LjI0OSwyMTIuMzQuMTQyLjEwMCwxODguMTE2LjQwLjM3%3Fed%3D2560&sni=gerkr1dLsUjtPY4c4Xi8LoTuL76MgjxN-wE.paGes.dev&fp=randomized&alpn=http%2F1.1#ARISTA💥
+vless://8d921086-629f-4464-babc-636cadfdfc0a@gerkr1dlsujtpy4c4xi8lotul76mgjxn-we.pages.dev:8443?encryption=none&host=gerkr1dlsujtpy4c4xi8lotul76mgjxn-we.pages.dev&type=ws&security=tls&path=%2F69JuSQLT2DYUHzT1%2FMTguMTg0LjU1LjI0OSwyMTIuMzQuMTQyLjEwMCwxODguMTE2LjQwLjM3%3Fed%3D2560&sni=GERKr1DlSujtPY4C4xi8LoTUL76mGJxN-wE.Pages.dEV&fp=randomized&alpn=http%2F1.1#ARISTA💥
+vless://8d921086-629f-4464-babc-636cadfdfc0a@www.speedtest.net:8443?encryption=none&host=gerkr1dlsujtpy4c4xi8lotul76mgjxn-we.pages.dev&type=ws&security=tls&path=%2FcB2VtcDN4ZBlL8fB%2FMTguMTg0LjU1LjI0OSwyMTIuMzQuMTQyLjEwMCwxODguMTE2LjQwLjM3%3Fed%3D2560&sni=gerKr1DlsujtPY4C4xI8lOTUl76mgJxn-wE.PageS.DEV&fp=randomized&alpn=http%2F1.1#ARISTA💥
+vless://8d921086-629f-4464-babc-636cadfdfc0a@172.66.44.171:8443?encryption=none&host=gerkr1dlsujtpy4c4xi8lotul76mgjxn-we.pages.dev&type=ws&security=tls&path=%2FEhIalQMxsqPtP5wo%2FMTguMTg0LjU1LjI0OSwyMTIuMzQuMTQyLjEwMCwxODguMTE2LjQwLjM3%3Fed%3D2560&sni=GErKr1DlsujtpY4C4Xi8LoTUL76MgJxN-we.pAGes.DEV&fp=randomized&alpn=http%2F1.1#ARISTA💥
+vless://8d921086-629f-4464-babc-636cadfdfc0a@172.66.47.85:8443?encryption=none&host=gerkr1dlsujtpy4c4xi8lotul76mgjxn-we.pages.dev&type=ws&security=tls&path=%2F9utAxbNadloyESg7%2FMTguMTg0LjU1LjI0OSwyMTIuMzQuMTQyLjEwMCwxODguMTE2LjQwLjM3%3Fed%3D2560&sni=gERKr1dLsUJTPy4C4xi8LotuL76MgjxN-WE.pAges.dEV&fp=randomized&alpn=http%2F1.1#ARISTA💥
 # --- Manual Added Configs ---
 vless://71d3da8f-0249-4a10-a056-ecb0e43d9cfb@assets.ahw85.ir:443?encryption=none&security=tls&type=ws&host=assets.ahw85.ir&path=/wp-json/#Secure-VLESS
 
