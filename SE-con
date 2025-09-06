@@ -12,4 +12,4 @@ vless://4e1f0fc6-a7f8-4642-bd35-6a3aa0bb2fc8@w3.org:443?encryption=none&security
 vless://4e1f0fc6-a7f8-4642-bd35-6a3aa0bb2fc8@braze.com:443?encryption=none&security=tls&sni=hdfynpv2c1.farvaharforever.com&fp=chrome&type=ws&path=%2FIyq035lnud9R8ruNNrqGxZZ2&host=hdfynpv2c1.farvaharforever.com#ARISTA💥
 # --- Manual Added Configs ---
 vless://71d3da8f-0249-4a10-a056-ecb0e43d9cfb@assets.ahw85.ir:443?encryption=none&security=tls&type=ws&host=assets.ahw85.ir&path=/wp-json/#Secure-VLESS
-
+vless://71d3da8f-0249-4a10-a056-ecb0e43d9cfb@assets.ahw85.ir:443?encryption=none&security=tls&sni=assets.ahw85.ir&type=ws&host=assets.ahw85.ir&path=%2Fwp-json%2F#Secure-VLESS
