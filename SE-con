@@ -1,5 +1,3 @@
-vless://71d3da8f-0249-4a10-a056-ecb0e43d9cfb@assets.ahw85.ir:443?encryption=none&security=tls&type=ws&host=assets.ahw85.ir&path=/wp-json/#Secure-VLESS
-
 {
   "outbounds": [
     {
@@ -24,3 +22,5 @@ vless://71d3da8f-0249-4a10-a056-ecb0e43d9cfb@assets.ahw85.ir:443?encryption=none
     }
   ]
 }
+
+vless://71d3da8f-0249-4a10-a056-ecb0e43d9cfb@assets.ahw85.ir:443?encryption=none&security=tls&type=ws&host=assets.ahw85.ir&path=/wp-json/#Secure-VLESS
