@@ -1,3 +1,2 @@
 vless://71d3da8f-0249-4a10-a056-ecb0e43d9cfb@assets.ahw85.ir:443?encryption=none&security=tls&sni=assets.ahw85.ir&type=ws&host=assets.ahw85.ir&path=%2Fwp-json%2F#Secure-VLESS
-vless://YXV0bzo3MWQzZGE4Zi0wMjQ5LTRhMTAtYTA1Ni1lY2IwZTQzZDljZmJAYXNzZXRzLmFodzg1LmlyOjQ0Mw?path=/wp-json/&remarks=Direct-Assets&obfsParam=assets.ahw85.ir&obfs=websocket&tls=1
-vless://71d3da8f-0249-4a10-a056-ecb0e43d9cfb@assets.ahw85.ir:443?encryption=none&security=tls&type=ws&host=assets.ahw85.ir&path=/wp-json/#Secure-VLESS
+vless://YXV0bzo3MWQzZGE4Zi0wMjQ5LTRhMTAtYTA1Ni1lY2IwZTQzZDljZmJAMTg4LjExNC45Ni4zOjQ0Mw?path=/cf-edge-vless&remarks=CF-Edge-85ahw&obfsParam=85ahw.sbs&obfs=websocket&tls=1
