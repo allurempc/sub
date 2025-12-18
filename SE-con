@@ -1,2 +1,2 @@
-vless://71d3da8f-0249-4a10-a056-ecb0e43d9cfb@assets.ahw85.ir:443?type=ws&security=tls&encryption=none&host=assets.ahw85.ir&path=%2Fwp-json%2F&sni=assets.ahw85.ir#WS-US
-vless://71d3da8f-0249-4a10-a056-ecb0e43d9cfb@assets.ahw85.ir:443?type=grpc&security=tls&encryption=none&serviceName=wp-grpc&mode=gun&alpn=h2&sni=assets.ahw85.ir#GRPC-US
+vless://c1d85146-d7c6-4eeb-9694-6c30e8511e39@154.53.164.193:19702/?encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=6-Z0pAGINgSZ6fdWmrEojIC4Uh8gdiJMi3zlXW5qH0U&sid=373ac68bc9682257&spx=%2F&type=tcp&flow=xtls-rprx-vision#VLESS-REALITY-VISION-PSIPHON-NL
+vless://3df35867-2e2d-41ce-8d8f-887128cdc12f@154.53.164.193:19702/?encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=6-Z0pAGINgSZ6fdWmrEojIC4Uh8gdiJMi3zlXW5qH0U&sid=373ac68bc9682257&spx=%2F&type=tcp&flow=xtls-rprx-vision#VLESS-REALITY-VISION-DIRECT
