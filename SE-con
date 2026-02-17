@@ -1,1 +1,4 @@
-
+vless://6b06377f-7fe9-4bca-b01f-fdaee6c8d25a@yournurse.ir:443?encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=0CcRdrsA86lHevNkopEgmRsFExIrBDm9Z9u5d0NrkEE&sid=9ab67fcca1e3e23a&spx=%2F&type=tcp&flow=xtls-rprx-vision#VLESS-REALITY-VISION
+trojan://QNi3TdFjgJgeIGPQnwDVP%2FeqqV8dOmAZ@yournurse.ir:8443?security=tls&sni=yournurse.ir&type=tcp#TROJAN-TLS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ2R5N091WlFKTkowai96bzA2cmNOUDV2Rkpna3JmMg==@yournurse.ir:8388#SHADOWSOCKS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNcW9nQlNaQnJRQkNxME9JMUYzU20w@216.144.228.165:9594/?outline=1#US-outline
