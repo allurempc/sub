@@ -1,2 +1,2 @@
-vless://dfbb346c-8762-4079-9c33-4d70c680353e@workshop.yournurse.ir:443?encryption=none&security=tls&sni=workshop.yournurse.ir&type=ws&host=workshop.yournurse.ir&path=%2Fsaj_r3masnioni#workshop.yournurse.ir-ws
-vless://dfbb346c-8762-4079-9c33-4d70c680353e@workshop.yournurse.ir:443?encryption=none&security=tls&sni=workshop.yournurse.ir&alpn=h2&type=grpc&mode=gun&serviceName=svc_gbmi5z9mfp&authority=workshop.yournurse.ir#workshop.yournurse.ir-grpc
+vless://05ac4a36-5a9b-4246-ad1d-86876cbaa362@workshop.yournurse.ir:443?encryption=none&security=tls&sni=workshop.yournurse.ir&type=ws&host=workshop.yournurse.ir&path=%2Fsaj_jesdrlhg28#workshop.yournurse.ir-ws
+vless://05ac4a36-5a9b-4246-ad1d-86876cbaa362@workshop.yournurse.ir:443?encryption=none&security=tls&sni=workshop.yournurse.ir&alpn=h2&type=grpc&mode=gun&serviceName=svc_xdm3z4as2y&authority=workshop.yournurse.ir#workshop.yournurse.ir-grpc
