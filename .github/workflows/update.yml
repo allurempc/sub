@@ -27,6 +27,7 @@ jobs:
           echo "" >> SE-con.new
           echo "# --- Manual Added Configs ---" >> SE-con.new
           echo "vless://7c915ef2-2e9c-44fc-bd6f-8bb40e9f2a3f@w1.yournurse.ir:443?encryption=none&security=tls&sni=w1.yournurse.ir&type=ws&host=w1.yournurse.ir&path=%2Fsaj_o5cfo06ans#w1.yournurse.ir-ws" >> SE-con.new
+          echo "vless://7c915ef2-2e9c-44fc-bd6f-8bb40e9f2a3f@w1.yournurse.ir:443?encryption=none&security=tls&sni=w1.yournurse.ir&alpn=h2&type=grpc&mode=gun&serviceName=svc_rn95vef3u2&authority=w1.yournurse.ir#w1.yournurse.ir-grpc" >> SE-con.new
           
           # اگه خواستی خط‌های بیشتری اضافه کنی اینجا بذار:
           # echo "vless://..." >> SE-con.new
