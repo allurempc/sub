@@ -21,7 +21,7 @@ jobs:
         run: |
           set -e
           # دریافت خروجی از Worker
-          curl -fsSL "https://sajad-cake-6262.mpc-allure.workers.dev/arista?limit=12" -o SE-con.new
+          curl -fsSL "http://94.183.176.95/sub/vless_raw.txt" -o SE-con.new
           
           # اضافه کردن کانفیگ‌های دستی
           echo "" >> SE-con.new
