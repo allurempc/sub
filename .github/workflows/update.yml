@@ -21,7 +21,7 @@ jobs:
         run: |
           set -e
           # دریافت خروجی از Worker
-          curl -fsSL "http://94.183.176.95/sub/vless_raw.txt" -o SE-con.new
+          curl -fsSL "http://set.ahw85.ir:8080/sub/vless_raw.txt" -o SE-con.new
           
           # اضافه کردن کانفیگ‌های دستی
           echo "" >> SE-con.new
